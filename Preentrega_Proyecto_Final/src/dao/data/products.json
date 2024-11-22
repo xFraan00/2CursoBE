@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Jugo",
+    "description": "Limonada",
+    "price": 125,
+    "code": "3Z8bK6",
+    "status": true,
+    "stock": 18,
+    "category": "Almacen",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Arroz",
+    "description": "Yamaní",
+    "price": 530,
+    "code": "aR7Ft2",
+    "status": true,
+    "stock": 15,
+    "category": "Almacen",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Harina",
+    "description": "0000",
+    "price": 870,
+    "code": "9p2QsE",
+    "status": true,
+    "stock": 12,
+    "category": "Almacen",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Leche",
+    "description": "Descremada",
+    "price": 1200,
+    "code": "X6cY4v",
+    "status": true,
+    "stock": 24,
+    "category": "Lacteos",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Huevos",
+    "description": "Blancos",
+    "price": 900,
+    "code": "H1jN7l",
+    "status": true,
+    "stock": "12",
+    "category": "Almacen",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Cereales",
+    "description": "Chocolate",
+    "price": 1600,
+    "code": "d5R9Lp",
+    "status": true,
+    "stock": 15,
+    "category": "Almacen",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Papel Higiénico",
+    "description": "30 Metros",
+    "price": 870,
+    "code": "M2aZ8q",
+    "status": true,
+    "stock": 12,
+    "category": "Limpieza e higiene",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Manzana",
+    "description": "Roja",
+    "price": 715,
+    "code": "V9gT3x",
+    "status": true,
+    "stock": 20,
+    "category": "Verdulería",
+    "thumbnail": "Imagen"
+  },
+  {
+    "title": "Pan",
+    "description": "Integral",
+    "price": 1500,
+    "code": "F4kP7s",
+    "status": true,
+    "stock": 15,
+    "category": "Almacen",
+    "thumbnail": "Imagen"
+  },
+  {
+
+    "title": "Queso",
+    "description": "Untable",
+    "price": 860,
+    "code": "W7hR6t",
+    "status": true,
+    "stock": 10,
+    "category": "Lacteos",
+    "thumbnail": "Imagen"
+  },
+  {
+
+    "title": "Coca-Cola",
+    "description": "Zero",
+    "price": 1520,
+    "code": "B4xN2J",
+    "status": true,
+    "stock": 8,
+    "category": "Bebidas",
+    "thumbnail": "Imagen"
+  },
+  {
+
+    "title": "Lapicera",
+    "description": "Trazo grueso",
+    "price": 670,
+    "code": "3H57zE",
+    "status": true,
+    "stock": 24,
+    "category": "Librería",
+    "thumbnail": "Imagen"
+  }
+]
